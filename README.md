@@ -2,7 +2,6 @@
 
 I'm a 26 y/o father of 2, writing PHP for over a decade and writing Laravel apps since 2017 and loving every moment of it ❤️
 
-- ⌨️ I’m currently working on [Zmartests.com](https://zmartests.com/en/) at my day job
 - 👯 I’m looking to collaborate on more open source projects
 - 💡 Open to collaborations on side projects! If you have an idea and want to team up, let me know
 - 💬 Ask me about anything Laravel, Vue.js, Livewire or PHP related
